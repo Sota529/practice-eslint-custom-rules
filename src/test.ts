@@ -1,0 +1,2 @@
+function FN() {}
+function fn() {}
