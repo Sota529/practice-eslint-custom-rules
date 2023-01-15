@@ -1,5 +1,8 @@
 # ESLINT-CUSTOM-RULES
 
+## Getting Started
+1. yarn or npm install
+2. npx tsc
 ## 概要
 eslintのルールをTypeScriptで書く。
 
