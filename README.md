@@ -13,8 +13,9 @@ npx tsc
 eslintのルールをTypeScriptで書く。
 
 ## 構成
-- eslint-local-rules
+### `eslint-local-rules`  
 ローカル環境に自作ルールを対応させる
-- src/rules
+### `src/rules`    
 自作ルールを置く。ファイル名がルール名
-- src/__tests__
+### `src/__tests__`     　 
+自作ルールのテスト
